@@ -1,4 +1,4 @@
-# BFV Homomorphic Encryption: FPGA-Based Secure Image Transfer On the cloud using BFV Homomorphic Algorithm
+#  FPGA-Based Secure Image Transfer On the cloud using BFV Homomorphic Algorithm
 
 **Hardware-accelerated Brakerski/Fan-Vercauteren (BFV) scheme with NTT-accelerated polynomial multiplication**
 
